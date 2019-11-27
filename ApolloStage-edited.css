@@ -1001,7 +1001,10 @@ table.box2 {
 
 .group_info {
 	word-break: break-all;
-	font-size: 14px !important;
+}
+
+.group_info strong {
+	font-size: 16px !important;
 }
 
 .big_info {
