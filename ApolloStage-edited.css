@@ -1000,7 +1000,7 @@ table.box2 {
 }
 
 .group_info {
-	word-break: break-all
+	word-break: break-all;
 	font-size: 14px !important;
 }
 
